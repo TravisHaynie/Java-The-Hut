@@ -15,6 +15,8 @@
 (personal communication in class with while asking questions in office hours with Andrea Presto May 28,2024)
 
 Carver, J.(2024). Full Stack Application Development. EdX.
+ 
+Loy, P.(2024). Full Stack Application Developtment. EdX.
 
 Xpert is an AI Learning Assistant provided by EdX, an online education technology company. Xpert
 
