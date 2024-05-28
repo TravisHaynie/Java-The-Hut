@@ -10,7 +10,7 @@ const collectEmployees = function() {
   const lastName=prompt("Enter emplyees last name:");
   const salary=prompt("Enter emplyoees salary:")
   const newEmployee={
-    fname:firstName,
+    firstName:firstName,
     lastName:lastName,
     salary:salary
   }
@@ -44,7 +44,7 @@ const getRandomEmployee = function(employees) {
   // TODO: Select and display a random employee
   const randomEmployee = employees[Math.floor(Math.random() * employees.length)];
  
-  console.log(`Random Employee: ${randomEmployee.fname} ${randomEmployee.lastName}`);
+  console.log(`Random Employee: ${randomEmployee.firstName} ${randomEmployee.lastName}`);
 
 }
 
