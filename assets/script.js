@@ -40,7 +40,6 @@ const displayAverageSalary = function(employees) {
 
 // Select a random employee
 const getRandomEmployee = function(employees) {
-  // employees = [{fn:"duke", ln: "jones", salary:10},{fn:"luke", ln: "jones", salary:10},{fn:"puke", ln: "jones", salary:10},]
   // TODO: Select and display a random employee
   const randomEmployee = employees[Math.floor(Math.random() * employees.length)];
  
