@@ -1,7 +1,7 @@
 # Java-the-hut
 
 ## Description
- Employee tracker and payroll form that gathers information from employees, and desplayes the info in a chart on the page. Then in the console log it choses a random employee and caculates the average salary.
+ Employee tracker and payroll form that gathers information from employees, and displays the information in a chart on the page in alpabetical order. T
 
 ## Deployed Url
 
