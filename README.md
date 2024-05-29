@@ -4,7 +4,7 @@
  Employee tracker and payroll form that gathers information from employees, and displays the information in a chart on the page in alpabetical order. 
 
 ## Deployed Url
-
+https://travishaynie.github.io/Java-the-hut/
 
 ## screenshot
 ![alt text](./assets/images/image.png)
